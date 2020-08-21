@@ -22,3 +22,12 @@ $("basic-text1").on("click", function(event){
 })
 })
 
+function showWeather(enterCity) {
+    $("#weatherDisplay").empty();
+    $("#fiveDayForecast").empty();
+    $("#dayOne").empty();
+    $("#dayTwo").empty();
+    $("#dayThree").empty();
+    $("#dayFour").empty();
+    $("#dayFive").empty();
+}
