@@ -31,7 +31,7 @@ section {
     width: 100%;
     clear: both;
 }
-
+/* Search Bar */
 #searchBar {
     height: 100%;
     position: fixed;
@@ -42,4 +42,15 @@ section {
 
 h1 {
     font-size: 20px;
+    /* text-align: left; */
+    padding: 20px 0px 10px 5px;
 }
+
+#basic-text1 {
+    background-color: #007bff;
+}
+.fas {
+    color: white;
+}
+
+/* Daily Weather Display */
