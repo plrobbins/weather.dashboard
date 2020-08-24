@@ -11,4 +11,4 @@ This weather dashboard will use the OpenWeather API to retrieve weather data for
 Below is an image of the completed Weather Dashboard.
 
 **The Weather Dashboard**
-[The Weather Dashboard]()
+[The Weather Dashboard](https://github.com/plrobbins/weather.dashboard/blob/master/Images/WeatherDashboard.png)
